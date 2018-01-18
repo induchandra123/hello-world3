@@ -1,9 +1,11 @@
-The Rainbow
+The hello-world and unicorn
 pink
 purple
 green
 blue
+unicorn
+unicorn1
 orange
 yellow
 red
-These are the colors of rainbow
+These are the colors of rainbow and unicorn
