@@ -3,6 +3,7 @@ pink
 purple
 green
 blue
+Skyblue
 Indigo
 unicorn
 unicorn1
@@ -11,3 +12,4 @@ orange
 yellow
 red
 These are the colors of rainbow and unicorn and ponis
+I added The Skyblue color through command line
